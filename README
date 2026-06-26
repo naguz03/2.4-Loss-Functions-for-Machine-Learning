@@ -1,17 +1,18 @@
-# Maximum Likelihood Estimation
+# Loss Functions
 
-This repository contains the implementation of the exercises developed in the **Maximum Likelihood Estimation** module for Deep Learning.
+This repository contains the implementation of the exercises developed in the **Loss Functions** module for Deep Learning.
 
 ## 📚 Topics Covered
 
 - Gaussian (Normal) Distribution
-- Probability Density Function (PDF)
+- Bernoulli Distribution
 - Likelihood
 - Negative Log-Likelihood (NLL)
 - Sum of Squared Errors (SSE)
-- Maximum Likelihood Estimation (MLE)
-- Gaussian Regression
-- NumPy implementation of statistical models
+- Sigmoid Activation Function
+- Binary Classification
+- Loss Functions for Machine Learning
+- Probabilistic Models
 
 ## 🛠️ Technologies
 
@@ -22,15 +23,16 @@ This repository contains the implementation of the exercises developed in the **
 
 ## 📂 Repository Contents
 
-- `3.1 Maximum Likelihood.ipynb`
+- `Loss Functions.ipynb`
 
 ## 🎯 Learning Objectives
 
-- Implement the Gaussian probability density function from scratch.
+- Implement Gaussian and Bernoulli probability distributions from scratch.
 - Compute likelihood and negative log-likelihood.
-- Understand the relationship between maximum likelihood estimation and loss functions.
-- Implement the Sum of Squared Errors (SSE).
-- Gain intuition about probabilistic models used in machine learning.
+- Understand the relationship between probabilistic models and loss functions.
+- Implement the sigmoid activation function for binary classification.
+- Compute the Sum of Squared Errors (SSE).
+- Apply loss functions commonly used in machine learning and deep learning.
 
 ## 👨‍💻 Author
 
@@ -38,3 +40,7 @@ This repository contains the implementation of the exercises developed in the **
 
 Professor and Researcher  
 Instituto Tecnológico de Tepic
+
+---
+
+This repository is part of a collection of Deep Learning implementations developed for educational purposes using Python and NumPy.
