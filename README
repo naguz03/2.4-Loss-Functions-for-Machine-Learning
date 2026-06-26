@@ -1,0 +1,40 @@
+# Maximum Likelihood Estimation
+
+This repository contains the implementation of the exercises developed in the **Maximum Likelihood Estimation** module for Deep Learning.
+
+## 📚 Topics Covered
+
+- Gaussian (Normal) Distribution
+- Probability Density Function (PDF)
+- Likelihood
+- Negative Log-Likelihood (NLL)
+- Sum of Squared Errors (SSE)
+- Maximum Likelihood Estimation (MLE)
+- Gaussian Regression
+- NumPy implementation of statistical models
+
+## 🛠️ Technologies
+
+- Python 3
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+## 📂 Repository Contents
+
+- `3.1 Maximum Likelihood.ipynb`
+
+## 🎯 Learning Objectives
+
+- Implement the Gaussian probability density function from scratch.
+- Compute likelihood and negative log-likelihood.
+- Understand the relationship between maximum likelihood estimation and loss functions.
+- Implement the Sum of Squared Errors (SSE).
+- Gain intuition about probabilistic models used in machine learning.
+
+## 👨‍💻 Author
+
+**Antonio Navarrete Guzmán**
+
+Professor and Researcher  
+Instituto Tecnológico de Tepic
